@@ -12,10 +12,23 @@ This jailbreak was made for the final `iOS26 public release`, NOT FOR THE BETA!
 
 ---
 
-## Tested Devices
+## Testing
+### Devices:
 - iPhone 15 Pro Max
 - iPhone 13
 - iPad Pro (2024)
+
+### Versions
+- iOS 26 ✅ (tested)
+- iOS 18.5 ✅ (tested)
+- iOS 18.0 ✅
+- iOS 17.4.1 ✅ (tested)
+- iOS 17.0 ✅
+- iOS 16.0 ✅
+- iOS 15.5 ❌ (tested)
+- iPadOS 18.5 ✅ (tested)
+
+Not tested on: iOS `18.0`, iOS `17.0`, iOS `16.0` (But it should work)
 
 ---
 
