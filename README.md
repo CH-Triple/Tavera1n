@@ -62,6 +62,7 @@ Please understand the risks before using it.
 - iPhone compatible with the jailbreak version (`iOS26`)
 - Internet connection to download necessary files  
 - Patience! Some steps may take a few minutes ⚡
+- A brain...
 
 ---
 
